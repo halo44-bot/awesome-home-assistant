@@ -254,6 +254,7 @@ _Pull your solar inverter, smart meter, home battery, or utility tariff into Hom
 - [Powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,503★).
 - [Anker Solix](https://github.com/thomluther/ha-anker-solix) - Pull Anker Solix balcony solar systems, batteries, and power stations into the energy dashboard with live state, history, and charging control (1,005★).
 - [Octopus Energy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) - Pull Octopus Energy tariffs, smart meter readings, intelligent dispatch slots, and saving sessions into your dashboard (940★).
+- - [Solar ASIC](https://github.com/halo44-bot/solar-asic) - Automatically starts and stops ASIC miners based on real-time solar surplus, using a 6-clamp energy meter.
 - [Huawei Solar](https://github.com/wlcrs/huawei_solar) - Read and control Huawei solar inverters and home batteries over Modbus, including grid charge windows (899★).
 - [SolaX Modbus](https://github.com/wills106/homeassistant-solax-modbus) - Talk to SolaX, Solinteg, Sofar, Growatt, and other inverters over Modbus, including read-only and inverter control modes (490★).
 - [Solarman](https://github.com/davidrapan/ha-solarman) - Read Deye, Sofar, and other Solarman-branded inverters via the Solarman stick logger (483★).
